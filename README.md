@@ -1,4 +1,4 @@
-**Project Title: Deep Learning-Based Handwritten Digit Recognition for MNIST Dataset**
+**Deep Learning-Based Handwritten Digit Recognition for MNIST Dataset**
 
 1. **Project Overview and Objective:**
    - Developed a deep learning model using PyTorch to perform handwritten digit recognition on the MNIST dataset.
